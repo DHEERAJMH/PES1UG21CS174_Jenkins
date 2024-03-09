@@ -15,7 +15,7 @@ pipeline {
             steps {
                 // Print output of .cpp file using shell script
                 script {
-                    sh './my_program'
+                    sh './my_progr'
                 }
             }
         }
